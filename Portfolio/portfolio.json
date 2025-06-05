@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Weather App",
+    "description": "A Flask app that fetches and displays weather data.",
+    "link": "https://github.com/yourusername/weather-app"
+  },
+  {
+    "title": "Portfolio Website",
+    "description": "A personal portfolio built with Flask.",
+    "link": "https://github.com/yourusername/portfolio"
+  }
+]
